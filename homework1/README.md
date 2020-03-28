@@ -1,8 +1,12 @@
 # Rachel-Solomon
-**Domain of Choice: Decentralized Finance (DeFi) > Blockchain > Cryptocurrency**
-**Landscape**
 
-*"DeFi is the movement to transform old financial products into trustless and transparent protocols that run on decentralized applications built using smart contract platforms like ethereum" (Coinbase, 2020).*
+# **MakerDao**
+
+##  Background and Landscape
+
+    Decentralized Finance (DeFi) > Blockchain > Cryptocurrency
+
+> *"DeFi is the movement to transform old financial products into trustless and transparent protocols that run on decentralized applications built using smart contract platforms like ethereum" (Coinbase, 2020).*
 
 - Throughout modern history, countries have relied on a central monetary authroity to stabilize national currencies, control price inflation, conduct monetary policy and regulate banks.
 
@@ -20,8 +24,8 @@
 - The immutable distributed ledger technology initialized as a currency by Bitcoin, provides a cryptographic form of money whereby no central authority controls the supply.
 
 - Anyone with internet connection or a smartphone can participate. 
-
-**Ethereum > Dapps > MakerDAO**
+ 
+        Ethereum > Dapps
 
  - The DeFi movement has evolved to include more sophisticated cryptocurrencies which allow for codeded applications to dictate the movement of digital value.
 
@@ -30,7 +34,8 @@
 
 - Ethereum allows developers to code financial services applications directly into the blockchain.
 
-**MakerDAO**
+
+        MakerDAO
 
 - MakerDAO is an "open-source project and Decentralized Autonomous Organization" which has programmed what is known as the "Maker Protocal" into the Ethereum blockchain. 
 
@@ -53,21 +58,46 @@
 - The majority of funding has been rasied across two venture rounds, totalling $27MM.
 The latest round was in September of 2018 at a $250MM valuation.
 
-**Business Activities**
+---
 
-- MakerDAO was the first to bring to market a real use case for cryptocurrency by creating a permissionless and autonomous lending platform.
+## Business Activities
 
-- Traditional KYC requirements needed to obtin a loan from a financial institution pose significant prohibitive obsticles to many and are thus financially exclusive. 
-MakerDAO serves as a proof of concept, suggesting how defi can addresses this problem by allowing anyone to anonymously take out a loan.
+- MakerDAO was one of the first to bring to market a real use case for cryptocurrency by creating a permissionless and autonomous lending platform.
+
+- Traditional KYC requirements for obtaining a loan from a financial institution pose significant prohibitive obsticles to many and are thus financially exclusive. 
+
+- MakerDAO serves as a proof of concept, suggesting how defi can addresses this problem by allowing anyone to anonymously take out a loan.
 
 - The use cases for Dia are currently limited mostly to acting as margin or leverage in sophisticated cryto trading strategies.
-Nevertheless, MakerDAO has a long term vision and goal of promoting and proveing the potential for decentralized finance. 
+
+- Nevertheless, MakerDAO has a long term vision and goal of promoting and proveing the potential for decentralized finance. 
 
 - Prior to the recent market crash, approx $400 MM worth of crypto asset collateral was pledged in the "MakerDAO protocal stability system" (Coinbase, 2020). 
 Although the value of pledged assets has grown, much of this is held by only a few accounts.
 
+---
+## Results
 
-**Landscape/Results**
+- DAI has created one of the first and most succesful stablecoins, providing a source of greater crypto stability and certainty in a market where volatility makes traditional cryptocurrencies unreliable stores of value.
 
 - Following MakerDAO's lead, the landscape has shifted drastically in terms of stablecoin adoption and proliferation.
 
+---
+
+## Potential 
+
+- Although in their infancy, projects and protocals such as MakerDao are foundational in building out use cases for cryptocurrency, sparking adoption and bringing crypto economy opportunities which exist on the Ethereum blockchain into a broader economic context. 
+
+- It is crucial that moving forward, these companies begin to make their mission and how they operate more accessable and understandable to the braoder public as much of the crypto community is incomprehensible to those unfamiliar with the technology. 
+
+---
+
+## Resources 
+
+* [The Maker Protocol: MakerDAO's Multi-Collateral Dai (MCD) System, MakerDao](https://makerdao.com/en/whitepaper#abstract)
+
+* [A Beginner’s Guide to Decentralized Finance (DeFi), Coinbase](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)
+
+* [What is Ethereum, Ethereum](https://ethereum.org/what-is-ethereum/)
+
+* [Maker, DeFi Rate](https://defirate.com/maker/)
