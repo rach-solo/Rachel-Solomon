@@ -1,6 +1,6 @@
 # Rachel-Solomon
 
-# **MakerDao**
+# **MakerDAO**
 
 ##  Background and Landscape
 
@@ -85,7 +85,7 @@ The latest round was in September of 2018 at a $250MM valuation.
 
 ## Potential 
 
-- Although in their infancy, projects and protocals such as MakerDao are foundational in building out use cases for cryptocurrency, sparking adoption and bringing crypto economy opportunities which exist on the Ethereum blockchain into a broader economic context. 
+- Although in their infancy, projects and protocals such as MakerDAO are foundational in building out use cases for cryptocurrency, sparking adoption and bringing crypto economy opportunities which exist on the Ethereum blockchain into a broader economic context. 
 
 - Specifically, MakerDAO presents a use case for blockchain and decentralized banking services in the lending space, making financing more accessable and reducing the prohibitive obsticles of traditional banking. 
 
