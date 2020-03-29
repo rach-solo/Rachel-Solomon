@@ -72,8 +72,7 @@ The latest round was in September of 2018 at a $250MM valuation.
 
 - Nevertheless, MakerDAO has a long term vision and goal of promoting and proveing the potential for decentralized finance. 
 
-- Prior to the recent market crash, approx $400 MM worth of crypto asset collateral was pledged in the "MakerDAO protocal stability system" (Coinbase, 2020). 
-Although the value of pledged assets has grown, much of this is held by only a few accounts.
+- Prior to the recent market crash, approx $400 MM worth of crypto asset collateral was pledged in the "MakerDAO protocal stability system" (Coinbase, 2020). Although the value of pledged assets has grown, much of this is held by only a few accounts.
 
 ---
 ## Results
@@ -88,7 +87,7 @@ Although the value of pledged assets has grown, much of this is held by only a f
 
 - Although in their infancy, projects and protocals such as MakerDao are foundational in building out use cases for cryptocurrency, sparking adoption and bringing crypto economy opportunities which exist on the Ethereum blockchain into a broader economic context. 
 
---  Specifically, MakerDAO presents a use case for blockchain and decentralized banking services in the lending space, making financing more accessable and reducing the prohibitive obsticles of traditional banking. 
+- Specifically, MakerDAO presents a use case for blockchain and decentralized banking services in the lending space, making financing more accessable and reducing the prohibitive obsticles of traditional banking. 
 
 - It is crucial that moving forward, these companies begin to make their mission and how they operate more accessable and understandable to the braoder public as much of the crypto community is incomprehensible to those who are unfamiliar with the technology. 
 
