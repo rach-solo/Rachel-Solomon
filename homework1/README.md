@@ -78,7 +78,7 @@ Although the value of pledged assets has grown, much of this is held by only a f
 ---
 ## Results
 
-- DAI has created one of the first and most succesful stablecoins, providing a source of greater crypto stability and certainty in a market where volatility makes traditional cryptocurrencies unreliable stores of value.
+- Dai is one of the first and most succesful stablecoins, providing a source of greater crypto stability and certainty in a market where volatility makes traditional cryptocurrencies unreliable stores of value.
 
 - Following MakerDAO's lead, the landscape has shifted drastically in terms of stablecoin adoption and proliferation.
 
