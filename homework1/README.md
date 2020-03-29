@@ -66,7 +66,7 @@ The latest round was in September of 2018 at a $250MM valuation.
 
 - Traditional KYC requirements for obtaining a loan from a financial institution pose significant prohibitive obsticles to many and are thus financially exclusive. 
 
-- MakerDAO serves as a proof of concept, suggesting how defi can addresses this problem by allowing anyone to anonymously take out a loan.
+- MakerDAO serves as a proof of concept, suggesting how defi can addresses this problem by allowing anyone to anonymously take out a loan through a transparent protocol that is not subject to one centralc authority.
 
 - The use cases for Dia are currently limited mostly to acting as margin or leverage in sophisticated cryto trading strategies.
 
@@ -88,7 +88,9 @@ Although the value of pledged assets has grown, much of this is held by only a f
 
 - Although in their infancy, projects and protocals such as MakerDao are foundational in building out use cases for cryptocurrency, sparking adoption and bringing crypto economy opportunities which exist on the Ethereum blockchain into a broader economic context. 
 
-- It is crucial that moving forward, these companies begin to make their mission and how they operate more accessable and understandable to the braoder public as much of the crypto community is incomprehensible to those unfamiliar with the technology. 
+--  Specifically, MakerDAO presents a use case for blockchain and decentralized banking services in the lending space, making financing more accessable and reducing the prohibitive obsticles of traditional banking. 
+
+- It is crucial that moving forward, these companies begin to make their mission and how they operate more accessable and understandable to the braoder public as much of the crypto community is incomprehensible to those who are unfamiliar with the technology. 
 
 ---
 
